@@ -1,0 +1,43 @@
+<resources>
+    <string name="displayHint">Enter a value</string>
+
+    <string name="app_name">Calculator</string>
+    <string name="oneText">1</string>
+    <string name="twoText">2</string>
+    <string name="threeText">3</string>
+    <string name="fourText">4</string>
+    <string name="fiveText">5</string>
+    <string name="sixText">6</string>
+    <string name="sevenText">7</string>
+    <string name="eightText">8</string>
+    <string name="nineText">9</string>
+    <string name="zeroText">0</string>
+
+    <string name="clearText">C</string>
+    <string name="parenthesesOpenText">(</string>
+    <string name="parenthesesCloseText">)</string>
+    <string name="divideText">÷</string>
+    <string name="multiplyText">x</string>
+    <string name="addText">+</string>
+    <string name="subtractText">-</string>
+    <string name="decimal">.</string>
+    <string name="equalsText">=</string>
+
+    <string name="backspace"> </string>
+
+    <string name="trigSinText">sin</string>
+    <string name="trigCosText">cos</string>
+    <string name="trigTanText">tan</string>
+    <string name="trigArcSinText">sin<sup><small>-1</small></sup></string>
+    <string name="trigArcCosText">cos<sup><small>-1</small></sup></string>
+    <string name="trigArcTanText">tan<sup><small>-1</small></sup></string>
+    <string name="NaturallogText">ln</string>
+    <string name="LogText">log</string>
+    <string name="SquarerootText">√</string>
+    <string name="AbsoluteText">|x|</string>
+    <string name="piText">π</string>
+    <string name="eText">e</string>
+    <string name="XsquaredText">x<sup><small>2</small></sup></string>
+    <string name="XPowerYText">x<sup><small>y</small></sup></string>
+    <string name="isPrimeFunctionText">isprime</string>
+</resources>
